@@ -1,2 +1,1 @@
-# Whmcs
-WHMCS Payment Gateway
+Ripple.co.id - (Ripple) Payment Gateway Module for WHMCS
